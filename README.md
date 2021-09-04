@@ -1,7 +1,26 @@
-### Hi there 👋
 
-<!--
-**chaumintruong/chaumintruong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# README.md
+
+**Hi there** 👋
+
+Welcome to my planet 
+
+My name is Chau Minh Truong. I'm a student in Computer Science major.
+
+🌱 I have experiences with **C**, **C++**, **Python** 
+
+🌱 I’m currently learning Computer Science at [University of Information Technology - Vietnam National University (UIT - VNU-HCM)](https://en.uit.edu.vn/overview-vnuhcm-university-information-technology)
+
+🌱 I have basic knowledge in **Data Structure**, **Artificial Intelligence**, **Natural Language Processing**, **Operating System**
+
+🌱 Contact me via:
+
+📫 Facebook: [Châu Minh Trương](https://www.facebook.com/truong.minh.chau.50552338) 
+
+📫 Gmail: 19521281@gm.uit.edu.vn or truongminhchau2112@gmail.com
+
+<!-- This is a comment.
+**19521281/19521281** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
