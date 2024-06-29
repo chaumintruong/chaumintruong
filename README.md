@@ -10,7 +10,7 @@ My name is Chau Minh Truong. I'm a student in Computer Science major.
 
 🌱 I’m currently learning Computer Science at [University of Information Technology - Vietnam National University (UIT - VNU-HCM)](https://en.uit.edu.vn/overview-vnuhcm-university-information-technology)
 
-🌱 I have basic knowledge in **Data Structure**, **Artificial Intelligence**, **Natural Language Processing**, **Operating System**
+🌱 I have basic knowledge in **Data Structure**, **Natural Language Processing**, **Artificial Intelligence**, **Computer Vision** 
 
 🌱 Contact me via:
 
